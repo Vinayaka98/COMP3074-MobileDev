@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     private Button activity_btn, web_btn, map_btn;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
