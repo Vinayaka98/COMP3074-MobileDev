@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SalaryCalc</string>
+    <string name="submit">Submit</string>
+    <string name="placeholder">Enter Hours Here</string>
+    <string name="placeholder2">Enter Rate Here</string>
+    <string name="empty"> </string>
+    <string name="menu">About Activity</string>
+</resources>
